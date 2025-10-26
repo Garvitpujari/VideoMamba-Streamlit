@@ -1,6 +1,5 @@
 streamlit
-streamlit-webrtc
 torch
 torchvision
-opencv-python
+opencv-python-headless
 numpy
